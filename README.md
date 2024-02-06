@@ -1,4 +1,4 @@
-HEAD
+
 # Proyecto_Individual_1- Henry
 # Proyecto individual 1 carrera Data Science rol Data Engineer  Machine Learning Operations (MLOps)
 
