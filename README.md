@@ -116,7 +116,7 @@ Ingresando el id de producto(item_id), deberíamos recibir una lista con 5 juego
 La API se desplegó mediante FastAPI en Render. Se puede acceder a la aplicación aquí para consumir los seis endpoints y realizar consultas sobre estadísticas de juegos.
 
 
-Haga clic para acceder a mi aplicación FastAPI: [API Deployment](https://proyecto1-gkkk.onrender.com/docs#/)
+Haga clic para acceder a mi aplicación FastAPI: [API Deployment](https://proyecto-individual-1-qwl5.onrender.com/docs)
 
 Para consumir la API, utilice los 6 endpoints diferentes para obtener información y realizar consultas sobre estadísticas de juegos.
 
