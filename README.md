@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+HEAD
 # Proyecto_Individual_1- Henry
 # Proyecto individual 1 carrera Data Science rol Data Engineer  Machine Learning Operations (MLOps)
 
 
 
-![MLOps](C:\Users\Elena\Desktop\PYTHON\imagenes\OIG1.jpeg)
+![MLOps](https://miro.medium.com/v2/resize:fit:1200/1*G4QIhWno7rWFu391uoxLFg.jpeg)
 
 # Introducción
 
@@ -58,7 +58,7 @@ _**Se quitan datos sin valor**_:
 
 _**Fusión de conjuntos de datos**_:
 
-6. Los datasets fueron combinados, generando un archivo .csv para las funciones 1 y 2, [Archivo para funciones 1 y 2]https://github.com/juanbadan3/Proyecto_Individual_1/blob/main/df_f1_2.csv y otro archivo .csv para las funciones 3, 4 y 5.https://github.com/juanbadan3/Proyecto_Individual_1/blob/main/df_f3_4_5.csv
+6. Los datasets fueron combinados, generando un archivo .csv para las funciones 1 y 2, [Archivo para funciones 1 y 2](https://github.com/juanbadan3/Proyecto_Individual_1/blob/main/df_f1_2.csv) y otro archivo .csv para las funciones 3, 4 y 5. [Archivo para funciones 3,4 y 5](https://github.com/juanbadan3/Proyecto_Individual_1/blob/main/df_f3_4_5.csv)
 
 
 _**Análisis de sentimiento**_:
@@ -136,7 +136,3 @@ Para consumir la API, utilice los 6 endpoints diferentes para obtener informaci�
 - Juan David Albadan Alvarez
 - Mail: juanalbadan3@gmail.com
 - Linkedin: [Linkedin](https://www.linkedin.com/in/juan-david-albadan-689855216/)
-=======
-# Proyecto_Individual_1
-Proyecto individual 1 carrera Data Science rol Data Engineer
->>>>>>> 101ad828730621d40b3ed45d9f754201f7260a2c
