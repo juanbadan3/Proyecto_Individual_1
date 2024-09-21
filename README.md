@@ -66,7 +66,7 @@ _**Análisis de sentimiento**_:
 
 # _Funciones_
 - _**Para obtener más información sobre el desarrollo de las diferentes funciones y una explicación más detallada de cada una, haga clic en el siguiente enlace**_
-[Notebook de funciones](https://github.com/NPontisLedda/PI01_MLOPs_Henry/blob/main/FastAPI/fastapi-env/main.py)
+[Notebook de funciones](https://github.com/juanbadan3/Proyecto_Individual_1/blob/main/main.py)
 
 Desarrollo API: Se propone disponibilizar los datos de la empresa usando el framework FastAPI . Las consultas que proponemos son las siguientes:
 
